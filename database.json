@@ -1,0 +1,12 @@
+[
+    {
+        "content": "Wash dishes",
+        "done": true,
+        "priority": 2
+    },
+    {
+        "content": "Take out the trash", 
+        "done": false,
+        "priority": 1
+    }
+]
